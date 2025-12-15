@@ -1,4 +1,5 @@
 # github-practice
 This is my first Repository.
 <br>
-Author- khushi khatik
+Author- khushi (github practice)
+ 
