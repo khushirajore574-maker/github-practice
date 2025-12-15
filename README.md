@@ -1,3 +1,3 @@
 # github-practice
 This is my first Repository.
-Autho- khushi khatik
+Author- khushi khatik
